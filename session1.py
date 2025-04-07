@@ -1,0 +1,1 @@
+print("Hello, my name is Juliana Luu (she/her).\n My favorite movie is Spiderman into the Spiderverse because of its unique animation. \n My favorite food are eggs because they are delicious and easy to make.")
